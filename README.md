@@ -1,14 +1,14 @@
-🛡️#### Insurance RAG Assistant  
+#🛡️Insurance RAG Assistant  
 An AI-powered insurance policy assistant that provides accurate answers by retrieving information directly from uploaded insurance documents. Built using FastAPI, Streamlit, and state-of-the-art retrieval and large language models.
 
-🚀 Features  
+##🚀 Features  
 💬 Ask questions about your insurance policies with contextual understanding  
 🔎 Retrieves answers from your uploaded insurance policy documents (avoids hallucinations)  
 🧠 Uses custom retrieval and reranking pipelines with large language models for precise answers  
-🖥 Interactive frontend powered by Streamlit  
+##🖥 Interactive frontend powered by Streamlit  
 ⚙️ Robust backend API built with FastAPI  
 
-🛠 Installation & Usage (Local)  
+##🛠 Installation & Usage (Local)  
 ✅ Recommended for local testing and development  
 
 ### Clone the Repository  
@@ -42,12 +42,12 @@ Open your browser at: [http://localhost:8501](http://localhost:8501)
 | Language Model| HuggingFace Transformers (custom LLM)   |
 | Deployment    | Local development (Docker optional)      |
 
-🛡 Disclaimer  
+##🛡 Disclaimer  
 This app is meant for informational purposes and does not replace professional insurance advice. Always review your official policy documents or consult with a licensed agent.
 
-📜 License  
+##📜 License  
 This project is licensed under the Apache License.
 
-📌 Created by Akash Kawalkar
+##📌 Created by Akash Kawalkar
 
 
