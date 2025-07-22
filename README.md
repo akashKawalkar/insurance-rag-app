@@ -1,4 +1,4 @@
-🛡️ Insurance RAG Assistant  
+🛡️#### Insurance RAG Assistant  
 An AI-powered insurance policy assistant that provides accurate answers by retrieving information directly from uploaded insurance documents. Built using FastAPI, Streamlit, and state-of-the-art retrieval and large language models.
 
 🚀 Features  
